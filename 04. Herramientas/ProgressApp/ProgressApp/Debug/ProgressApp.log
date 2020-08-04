@@ -1,0 +1,4 @@
+﻿  MainForm.cpp
+  MainForm.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  ProgressApp.vcxproj -> B:\Aprendiendo weas\Piano\04. Herramientas\ProgressApp\Debug\ProgressApp.exe
+  ProgressApp.vcxproj -> B:\Aprendiendo weas\Piano\04. Herramientas\ProgressApp\Debug\ProgressApp.pdb (Partial PDB)
